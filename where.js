@@ -31,5 +31,17 @@ myData = [
 [38.3946981,27.0322689, 'İnciraltı, Dokuz Eylül Ünv. Hst., 35330 Tırazlı/Balçova/İzmir, Turkey'],
 [39.9622267,116.3659223, 'Bei Jing Shi Fan Da Xue, BeiTaiPingZhuang, Haidian Qu, Beijing Shi, China, 100875'],
 [33.9519347,-83.357567, 'Athens, GA, USA'],
-[10.7295115,79.0196067, 'Sastra University Road, Tirumalaisamudram, Tamil Nadu 613401, India']
+[10.7295115,79.0196067, 'Sastra University Road, Tirumalaisamudram, Tamil Nadu 613401, India'],
+[43.659598,-79.3947916, 'Toronto, ON M5S, Canada'],
+[43.773116,-79.501118, 'York University, Toronto, ON M3J, Canada'],
+[43.0010299,-81.2769422, 'University of Western Ontarios Books Plus, 1153 Western Rd, London, ON N6G 1G6, Canada'],
+[50.4068098,-105.54199, 'Laurier St W, Moose Jaw, SK S6H, Canada'],
+[37.590401,127.035859, 'Korea University, Jongam-dong, Seoul'],
+[37.590401,127.035859, 'Korea University, Jongam-dong, Seoul'],
+[46.8624181,-113.9836203, 'McGill Hall, 32 Campus Dr, Missoula, MT 59812, USA'],
+[34.0026819,-81.0261039, 'McMaster, Columbia, SC 29201, USA'],
+[43.529442,-80.225481, 'University of Guelph, Guelph, ON N1G, Canada'],
+[42.3800977,-71.1166286, 'Agassiz, Cambridge, MA, USA'],
+[36.3665027,140.4709965, 'Mito, Ibaraki Prefecture, Japan'],
+[33.6518297,-117.8389422, 'Stanford, Irvine, CA 92612, USA']
 ];
